@@ -36,5 +36,8 @@ Scikit-learn
 
 NLP (Text Cleaning, Tokenization, TF-IDF)
 
+WORD_CLOUD ON BASIS OF POSITIVE_REVIEWS
 ![POSITIVE_REVIEWS](Positive_Reviews.png)
-![NEGATIVE_REVIEWS](Positive_Reviews.png)
+
+WORD_CLOUD ON BASIS OF NEGATIVE_REVIEWS
+![NEGATIVE_REVIEWS](Negative_Reviews.png)

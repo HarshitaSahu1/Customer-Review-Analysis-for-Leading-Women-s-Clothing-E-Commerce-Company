@@ -36,5 +36,5 @@ Scikit-learn
 
 NLP (Text Cleaning, Tokenization, TF-IDF)
 
-[POSITIVE_REVIEWS](Positive_Reviews.png)
-[NEGATIVE_REVIEWS](Positive_Reviews.png)
+![POSITIVE_REVIEWS](Positive_Reviews.png)
+![NEGATIVE_REVIEWS](Positive_Reviews.png)
